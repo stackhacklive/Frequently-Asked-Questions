@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://yt3.ggpht.com/ytc/AKedOLSwOKwPBRZtDPbsg8Xal_Ww3IiqG3Q_WJiLhHM=s176-c-k-c0x00ffffff-no-rj-mo" width="128px" style="max-width:100%;">
-<h1>FAQ - Team Ujjwal</h1>
+<h1>FAQ - Team Stackhack</h1>
 </div>
 
 #### Here are some of the most asked questions and their answers please don't ping the staff unnecessarily for these questions and if they are asked again we may not answer it.
