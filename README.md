@@ -16,7 +16,7 @@ Boosting the server will give you a @Nitro Booster role. Boosting the server hel
 If you don't know how to boost the server, [read this article](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).
 
 **#3: How to sponsor Ujjwal?**
-Simply, [**Join Channel Membership**](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw/join)! 
+Simply, [**Join Channel Membership**](https://www.youtube.com/channel/UCSvEj_h3A4YuLb2Nri--_Zw)! 
 If you are already a Sponsor, go ahead and **sync your YouTube account with your Discord account**, by going into User Settings > Connections > YouTube. Discord will automatically sync with your YouTube account, and assign you the role. [For further details read this article](https://support.discord.com/hc/en-us/articles/215162978-Youtube-Channel-Memberships-Integration-FAQ)!
 
 **#4: What are the perks if I'm a Nitro Booster or Youtube Sponsor?**
